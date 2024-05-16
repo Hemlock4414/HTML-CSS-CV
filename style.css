@@ -152,8 +152,7 @@ img {
 }
 
 #pinkbottom {
-    padding-left: 63px;
-    
+    padding-left: 63px;    
 }
 
 .boxwhite {
@@ -168,25 +167,14 @@ img {
     padding-top: 53px;
 }
 
-#boxtitle2 {
-
-}
-
-#boxtitle3 {
-
-}
-
-
 #borderleft {
-    margin-left: 136px;
-    
+    margin-left: 136px;    
 }
 
 .boxtop {
     display: flex;
     justify-content: space-between;
-    Padding: 10px 0px 10px 0px;
-    
+    Padding: 10px 0px 10px 0px;    
 }
 
 #boxrightbottom {
